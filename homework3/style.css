@@ -1,0 +1,22 @@
+.text1 {
+    color: blue;
+}
+
+.text1:hover {
+    color: aqua;
+}
+
+
+.text2 {
+    color:red
+}
+.text2:hover {
+    text-decoration: underline;
+}
+
+.text3{
+    color:green;
+}
+.text3:hover{
+    text-decoration: line-through;
+}
